@@ -1,2 +1,2 @@
 emby/embyserver
-xiaoyaliu
+xiaoyaliu/alist
